@@ -1,0 +1,229 @@
+.bg-container{
+    background-image: url("https://img.freepik.com/free-vector/dark-black-background-design-with-stripes_1017-38064.jpg");
+    height:100vh;
+    
+}
+.custom-navbar{
+    background-color:rgb(168, 168, 160);
+}
+.nav-image{
+    height:50px;
+    width:120px;
+    margin-left:20px;
+}
+#navitem-1{
+    color:black;
+    font-family:"roboto";
+    font-weight:500;
+    font-size:18px;
+}
+#navitem-2{
+    color:black;
+    font-family:"roboto";
+    font-weight:500;
+    font-size:18px;
+}
+#navitem-3{
+    color:black;
+    font-family:"roboto";
+    font-weight:500;
+    font-size:18px;
+}
+#navitem-4{
+    color:black;
+    font-family:"roboto";
+    font-weight:500;
+    font-size:18px;
+}
+.customcard{
+    background-color:aliceblue;
+    margin:20px;
+    height:70vh;
+    text-align:center;
+    padding-top:100px;
+    
+}
+.homepage-heading{
+    color:black;
+    font-family:"roboto";
+    font-weight:bold;
+    font-size:35px;
+}
+.homepage-span{
+    color:#204ec4;
+    font-family:"roboto";
+    font-weight:bold;
+    font-size:35px;
+}
+.homepage-caption{
+    color:black;
+    font-family:"roboto";
+    font-weight:normal;
+    font-size:25px;
+}
+.custom-button{
+    height: 45px;
+    width: 120px;
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 5px;
+    color: #ffffff;
+    background-color: #2150c7;
+}
+.home{
+    margin-right:70px;
+    margin-top:20px;
+}
+
+.myimage{
+    height:250px;
+    width:250px;
+    border-style:solid;
+    border-color:#2150c7;
+    border-radius:50%;
+    margin-left:70px;
+}
+
+.custom-card{
+    background-color:aliceblue;
+    margin:20px;
+    height:70vh;
+    
+   
+}
+.custom-heading{
+    color:blue;
+    font-family:"roboto";
+    font-weight:bold;
+    font-size:30px;
+    padding:10px;
+    text-decoration:underline;
+}
+.wp-image {
+    height: 350px;
+    width: 250px;
+    border-radius: 10px;
+}
+.pw-about-discription {
+    font-family: "roboto";
+    font-size: 20px;
+    font-weight: normal;
+    color:black;
+    padding-left:10px;
+}
+.pw-skills-card {
+    height: 140px;
+    width: 140px;
+    background-color: #323f4b;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+}
+
+.pw-skills-card-img {
+    height: 70px;
+    width: 70px;
+
+}
+
+.pw-skills-card-caption {
+    font-family: "roboto";
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 10px;
+}
+.pw-service-section-card {
+    background-color: #323f4b;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 0px;
+}
+
+.pw-service-section-card-img {
+    height: 50px;
+    width: 50px;
+}
+
+.pw-service-section-card-heading {
+    font-family: "roboto";
+    font-size: 30px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.pw-service-secton-card-discription {
+    font-family: "roboto";
+    font-size: 20px;
+    font-weight: normal;
+    color: #9aa5b1;
+}
+.pw-project-section-card {
+    background-color: #323f4b;
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 10px;
+    
+}
+
+.pw-project-section-card-caption {
+    font-family: "roboto";
+    font-size: 15px;
+    color: #9aa5b1;
+}
+
+.pw-project-section-card-heading {
+    font-family: "roboto";
+    font-size: 25px;
+    color: #ffffff;
+}
+
+.pw-project-section-card-discription {
+    font-family: "roboto";
+    font-size: 25px;
+    color: #9aa5b1;
+}
+
+.custom-link {
+    font-family: "roboto";
+    font-size: 15px;
+    font-weight: bold;
+    color: #cced00;
+}
+.pw-footer-section-heading {
+    font-family: "roboto";
+    font-size: 22px;
+    font-weight: bold;
+    color: #cced00;
+}
+.footer-card{
+    margin:25px;
+}
+.pw-footer-section-caption {
+    font-family: "roboto";
+    font-size: 15px;
+    font-weight: normal;
+    color: #9aa5b1;
+}
+
+.custom-icon {
+    height: 40px;
+    width: 30px;
+    color: #5a7184;
+
+}
+.pw-footer-bottom-section {
+    background-color: #001c32;
+}
+
+.pw-footer-bottom-section-icon {
+    height: 20px;
+    width: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    color: #5a7184;
+    border-color: #5a7184;
+}
